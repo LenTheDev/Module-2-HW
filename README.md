@@ -14,8 +14,8 @@ In this module you learn relational database terminology, relationships, and con
 2. [How to create a data dictionary (DD)](https://medium.com/@leapingllamas/data-dictionary-a-how-to-and-best-practices-a09a685dcd61)
 ## Hands On
 Create an entity relationship diagram (ERD/DERD), and (DD) data dictionary to support the business requirements described below.    
-1. [Entity Relationship Diagram](../Module-2-IS421/ERD.md)
-2. [Data Dictionary](../Module-2-IS421/DataDictionary.md)
+1. [Entity Relationship Diagram](ERD.md)
+2. [Data Dictionary](DataDictionary.md)
 ### Project Module Service Specifications
 #### User Management
 - Purpose: The users that are members of the school
